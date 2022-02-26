@@ -1,0 +1,24 @@
+Antes del examen:
+
+Asegúrese de contar con los siguientes componentes instalados en la computadora que realizará el examen.
+
+1. Python - Se recomienda Python 3.7 pues en algunos casos Python 3.8 causa algunos problemas de compatibilidad con PySpark
+2. PySpark - Se recomienda PySpark 2.x
+3. Jupyter Notebook - Se recomienda instalar la distribución Anaconda3 - 2020.02 que contiene Python 3.7. Esto puede descargarse de https://repo.anaconda.com/archive/
+
+Al momento del examen:
+
+En la fecha y hora acordada recibirá un correo electrónico con un archivo .ipynb con las preguntas del examen, así como dos archivos .csv necesarios para responder algunas de las preguntas.
+
+1. Asegúrese de estar en un lugar tranquilo y libre de distracciones.
+2. Se permite el uso de internet.
+3. Cuenta con 90 minutos para responder el examen.
+4. El examen deberá ser respondido utilizando Jupyter Notebook.
+5. Lea cuidadosamente las preguntas, escriba el código correspondiente y ejecútelo para mostrar sus resultados.
+6. Todos los ejercicios deberán realizarse con funciones nativas de Python, NumPy, Pandas o PySpark (no podrán crearse vistas temporales para realizarse en SQL, salvo que se indique lo contrario).
+
+Al finalizar el examen:
+
+1. Guarde el Jupyter Notebook con sus respuestas.
+2. Responda el correo electrónico en el que recibió el examen, adjuntando el archivo anterior (solo es necesario que envíe el archivo .ipynb)
+3. El correo deberá ser enviado dentro de los 90 minutos permitidos, enviarlo posteriormente resultará en la descalificación del candidato.
